@@ -4,11 +4,9 @@
 
 KPI : Total sales Amaount, Total Profit, Profit %, Total Cost
 
-Analysis: Total sales by month
-
-          Total profit by month
-          
-          Total cost By month
-          
+Analysis:           
+          Total sales by month          
+          Total profit by mont          
+          Total cost By month  
           Total profit % by month
          
